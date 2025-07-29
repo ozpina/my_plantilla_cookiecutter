@@ -1,0 +1,12 @@
+name: {{ cookiecutter.project_name }}
+channels:
+  - conda-forge
+dependencies:
+  - python={{ cookiecutter.python_version }}
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - ipykernel
