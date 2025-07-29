@@ -12,4 +12,4 @@ Una plantilla Cookiecutter para proyectos de ciencia de datos. Incluye estructur
 ## ¿Cómo usarla?
 
 ```bash
-cookiecutter https://github.com/ozpina/cookiecutter-data-science
+cookiecutter https://github.com/ozpina/my_plantilla_cookiecutter
